@@ -10,7 +10,7 @@
 我们的纳新方式是[点击此处](https://jinshuju.net/f/VmllVs "点击此处")填写申请表，请如实填写；之后论坛管理员会根据填写的信息告知用户是否通过申请；成功加入计划后，每篇通过管理组审核的搬运贴按篇获得对应的报酬。
 
 
-![](https://imgkr.cn-bj.ufileos.com/138420a3-e7af-41d0-ad1a-aa8739229245.png)
+![扫码申请](https://imgkr.cn-bj.ufileos.com/138420a3-e7af-41d0-ad1a-aa8739229245.png)
 
 
 

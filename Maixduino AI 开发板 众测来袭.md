@@ -64,13 +64,13 @@ Maixduino支持原始 [Arduino IDE](https://www.arduino.cc/en/Main/Software "Ard
 
 ### 相关文章
 
-- [嵌入式AI从入门到放肆【K210篇】-- 硬件与环境](https://mc.dfrobot.com.cn/thread-299778-1-1.html)
+- [嵌入式AI从入门到放肆【K210篇】-- 硬件与环境](https://mc.dfrobot.com.cn/thread-299778-1-1.html "嵌入式AI从入门到放肆【K210篇】-- 硬件与环境")
 
-- [【MaixPy 教程】用mixly玩转K210——人脸追踪](https://mc.dfrobot.com.cn/thread-305097-1-1.html)
-- [【MaixPy 教程】用mixly玩转K210——20类对象检测](https://mc.dfrobot.com.cn/thread-305125-1-1.html)
-- [【MaixPy教程】用mixly玩转K210——调用AI_OneNET API实现车牌识别](https://mc.dfrobot.com.cn/thread-305038-1-1.html)
-- [【MaixPy 教程】用mixly玩转K210——一键本地模型训练](https://mc.dfrobot.com.cn/thread-305291-1-1.html)
-- [【MaixPY 教程】用mixly玩转k210——MixNo通过TCP/IP与掌控板进...](https://mc.dfrobot.com.cn/thread-305317-1-1.html)
+- [【MaixPy 教程】用mixly玩转K210——人脸追踪](https://mc.dfrobot.com.cn/thread-305097-1-1.html "【MaixPy 教程】用mixly玩转K210——人脸追踪")
+- [【MaixPy 教程】用mixly玩转K210——20类对象检测](https://mc.dfrobot.com.cn/thread-305125-1-1.html "【MaixPy 教程】用mixly玩转K210——20类对象检测")
+- [【MaixPy教程】用mixly玩转K210——调用AI_OneNET API实现车牌识别](https://mc.dfrobot.com.cn/thread-305038-1-1.html "【MaixPy教程】用mixly玩转K210——调用AI_OneNET API实现车牌识别")
+- [【MaixPy 教程】用mixly玩转K210——一键本地模型训练](https://mc.dfrobot.com.cn/thread-305291-1-1.html "【MaixPy 教程】用mixly玩转K210——一键本地模型训练")
+- [【MaixPY 教程】用mixly玩转k210——MixNo通过TCP/IP与掌控板进行通讯](https://mc.dfrobot.com.cn/thread-305317-1-1.html "【MaixPY 教程】用mixly玩转k210——MixNo通过TCP/IP与掌控板进行通讯")
 
 ### 活动流程
 
@@ -128,15 +128,15 @@ Maixduino支持原始 [Arduino IDE](https://www.arduino.cc/en/Main/Software "Ard
 
 ### 示范文章链接跳转：
 
-- [LattePanda试用之一体化电子仪器平台—序章(纯灌水)](https://mc.dfrobot.com.cn/thread-24413-1-1.html)
+- [LattePanda试用之一体化电子仪器平台—序章(纯灌水)](https://mc.dfrobot.com.cn/thread-24413-1-1.html "LattePanda试用之一体化电子仪器平台—序章(纯灌水)")
 
-- [基于LattePanda开发板的一体化电子仪器平台——试用体验](https://mc.dfrobot.com.cn/thread-27555-1-1.htm)
+- [基于LattePanda开发板的一体化电子仪器平台——试用体验](https://mc.dfrobot.com.cn/thread-27555-1-1.htm "基于LattePanda开发板的一体化电子仪器平台——试用体验")
 
-- [基于LattePanda开发板的一体化电子仪器平台——制作过程](https://mc.dfrobot.com.cn/thread-27556-1-1.html)
+- [基于LattePanda开发板的一体化电子仪器平台——制作过程](https://mc.dfrobot.com.cn/thread-27556-1-1.html "基于LattePanda开发板的一体化电子仪器平台——制作过程")
 
-- [基于LattePanda开发板的一体化电子仪器平台——功能参数](https://mc.dfrobot.com.cn/thread-27557-1-1.html)
+- [基于LattePanda开发板的一体化电子仪器平台——功能参数](https://mc.dfrobot.com.cn/thread-27557-1-1.html "基于LattePanda开发板的一体化电子仪器平台——功能参数")
 
-- [基于LattePanda开发板的一体化电子仪器平台——终篇？](https://mc.dfrobot.com.cn/thread-27554-1-1.html)
+- [基于LattePanda开发板的一体化电子仪器平台——终篇？](https://mc.dfrobot.com.cn/thread-27554-1-1.html "基于LattePanda开发板的一体化电子仪器平台——终篇？")
 
 
 ### 注意事项
